@@ -1,2 +1,2 @@
-# calculadora_imc-dart
-Projeto do Desafio: Santander Bootcamp 2023 - Mobile com Flutter
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
